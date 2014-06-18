@@ -1,0 +1,7 @@
+{
+  "name": "Dexmax",
+  "dependencies": {
+    "attr-range": "*",
+    "dexmax-bower": "https://github.com/maxbrockman453/center-me.git"
+  }
+}
